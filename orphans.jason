@@ -1,5 +1,5 @@
 {
-    "file": "http://gif-server.biotech.iastate.edu/arnstrm/orphans.csv",
+    "file": "https://raw.githubusercontent.com/aseetharam/test-data/master/orphans.csv",
     "name": "orphans",
     "header": 0,
     "separator": ";",
