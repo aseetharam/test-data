@@ -1,0 +1,14 @@
+{
+    "file": "http://gif-server.biotech.iastate.edu/arnstrm/orphans.csv",
+    "name": "orphans",
+    "header": 0,
+    "separator": ";",
+    "skip": 0,
+    "meta": [
+        { "type": "id", "index": 0, "name": "Genes" },
+        { "type": "id", "index": 1, "name": "Strata" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 1, "end": 35133 }
+    ]
+}
